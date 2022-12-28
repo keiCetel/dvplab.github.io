@@ -1,4 +1,4 @@
-![display dvplab logo](logo.png)
+![display dvplab logo](/images/logo.png)
 
 ## Welcome
 
