@@ -58,6 +58,7 @@ BSc student (University of Stirling), Research Assistant on the SCONe project (f
 ## Links
 
 [SCONe - *S*cottish-EU *C*ritical *O*scillations *Ne*twork](https://scone.stir.ac.uk/)
+
 [Anne Keitel's The Auditory Brain Lab](https://keitelscience.com/annes-lab/)
 
 
