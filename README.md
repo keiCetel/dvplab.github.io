@@ -29,7 +29,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 Lab PI
 
-[publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications) | [website](https://keitelscience.com)
+[publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications) // [website](https://keitelscience.com)
 
 ### Rosyl Somai
 
