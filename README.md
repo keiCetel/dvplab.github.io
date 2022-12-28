@@ -23,6 +23,8 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 ![display dvplab themes](/images/dvplab_themes.png)
 
+|
+
 ## Members
 
 ### Christian Keitel
@@ -57,6 +59,8 @@ BSc student (University of Stirling), Research Assistant on the SCONe project (f
 
 ...
 
+|
+
 ## Links
 
 [DVPlab - student support](https://dvplab.wordpress.com/)
@@ -65,6 +69,7 @@ BSc student (University of Stirling), Research Assistant on the SCONe project (f
 
 [Anne Keitel's The Auditory Brain Lab](https://keitelscience.com/annes-lab/)
 
+|
 
 ## Contact
 
