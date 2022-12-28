@@ -25,7 +25,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 ### Christian Keitel
 
-![display ck profile pic](/images/ck_profile_pic.jpg | width=150px)
+![display ck profile pic|width=100px](/images/ck_profile_pic.jpg)
 
 Lab PI
 
