@@ -33,15 +33,15 @@ Lab PI
 
 ### Rosyl Somai
 
-Research Associate, investigating lapses of attention with fNIRS (funded by [CENSIS](https://censis.org.uk/))
+Research Associate (University of Stirling), investigating lapses of attention with fNIRS (funded by [CENSIS](https://censis.org.uk/))
 
 ### Emily Cunningham
 
-PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)), project "REALapse" - based at University of Stirling
+PhD student (University of Stirling), funded by [SGSSS](https://www.sgsss.ac.uk/) - project "REALapse"
 
 ### Martina Kopcanova
 
-MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)), project "Falling out of the Zone"
+MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)) - project "Falling out of the Zone"
 
 ### Lucy Wight
 
