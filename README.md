@@ -1,6 +1,6 @@
 ![display dvplab logo](/images/logo_s.png)
 
-Founded 2020 at the University of Stirling (UK), we are now one of the labs contributing to Cognitive Neuroscience research at the [Psychology Division](https://www.dundee.ac.uk/psychology) of the University of Dundee, Scotland. Find here an overview of our research, lab members, publications and activities.
+Founded at the University of Stirling (UK) in 2020, we are now one of the labs contributing to Cognitive Neuroscience research at the [Psychology Division](https://www.dundee.ac.uk/psychology) of the University of Dundee, Scotland. Find here an overview of our research, lab members, publications and activities.
 
 [Research](#research) | [Lab Members](#members) | [Links](#links) | [Contact](#contact)
 
