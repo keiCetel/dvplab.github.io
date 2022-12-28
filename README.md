@@ -19,18 +19,17 @@ We use the following methods:
 
 Studies take place in lab-based and mobile 'real-world' environments.
 
-<img src="/images/dvplab_themes.png" width="500">
+![display dvplab themes](/images/dvplab_themes.png)
 
 ## Members
 
 ### Christian Keitel
 
-<img src="/images/ck_profile_pic.jpg" width="150">
+![display dvplab themes](/images/ck_profile_pic.jpg)
 
 Lab PI
 
-<p>&#127891 <a href=https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications</a></p>
-<p>&#127760 <a href=https://keitelscience.com>website</a></p>
+[publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications) | [website](https://keitelscience.com)
 
 ### Rosyl Somai
 
@@ -61,5 +60,7 @@ BSc student, Research Assistant on the SCONe project (funded by the [RSE](https:
 
 
 ## Contact
-<p>&#128231 <a href=mailto:keitel.chris@gmail.com>keitel.chris@gmail.com</a></p>
-<p>&#128231 Psychology, University of Dundee, DD1 4HN Dundee</p>
+
+_email:_ [keitel.chris@gmail.com](mailto:keitel.chris@gmail.com)
+
+_location:_ Psychology, University of Dundee, DD1 4HN Dundee
