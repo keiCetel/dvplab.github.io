@@ -25,8 +25,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 ### Christian Keitel
 
-<--! [display ck profile pic](/images/ck_profile_pic.jpg) {: width="50%"} -->
-<img src="https://github.com/keiCetel/dvplab.github.io/blob/master/images/ck_profile_pic.jpg" width="150">
+<img src="https://raw.githubusercontent.com/keiCetel/dvplab.github.io/master/images/ck_profile_pic.jpg" width="150">
 
 Lab PI
 
