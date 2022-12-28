@@ -19,29 +19,29 @@ We use the following methods:
 
 ## Members
 
-# Christian Keitel
+### Christian Keitel
 
 Lab PI
-:mortar_board: [publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en)
-::
 
-# Rosyl Somai
+:mortar_board: [publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en)
+
+### Rosyl Somai
 
 Research Associate, investigating lapses of attention with fNIRS (funded by [CENSIS](https://censis.org.uk/))
 
-# Emily Cunningham
+### Emily Cunningham
 
 PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)), project "REALapse" - based at University of Stirling
 
-# Martina Kopcanova
+### Martina Kopcanova
 
 MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)), project "Falling out of the Zone"
 
-# Lucy Wight
+### Lucy Wight
 
 MSc student, Research Assistant
 
-# Karin Bakardjian
+### Karin Bakardjian
 
 BSc student, Research Assistant on the SCONe project (funded by the [RSE](https://rse.org.uk/))
 
@@ -53,9 +53,8 @@ BSc student, Research Assistant on the SCONe project (funded by the [RSE](https:
 
 
 
-
-
 ## Contact
 
 :email: keitel.chris@gmail.com
+
 :round_pushpin: Psychology, University of Dundee, DD1 4HN Dundee :scotland:
