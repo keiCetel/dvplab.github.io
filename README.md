@@ -1,6 +1,8 @@
-![display dvplab logo](/images/logo.png)
+![display dvplab logo](/images/logo_s.png)
 
 We are one of the labs contributing to Cognitive Neuroscience research at the [Psychology Division](https://www.dundee.ac.uk/psychology) of the University of Dundee, Scotland. Find here an overview of our research, lab members, publications and activities.
+
+[Research](#research)|[Lab Members](#members)|[Links](#links)|[Contact](#contact)
 
 ## Research
 
@@ -20,6 +22,8 @@ We use the following methods:
 ## Members
 
 ### Christian Keitel
+
+![display ck profile pic](/images/ck_profile_pic.png)
 
 Lab PI
 
@@ -45,9 +49,9 @@ MSc student, Research Assistant
 
 BSc student, Research Assistant on the SCONe project (funded by the [RSE](https://rse.org.uk/))
 
-## Lab Alumni
+### Lab Alumni
 
-#...
+...
 
 ## Links
 
