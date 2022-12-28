@@ -23,7 +23,7 @@ We use the following methods:
 
 ### Christian Keitel
 
-![display ck profile pic](/images/ck_profile_pic.png)
+![display ck profile pic](/images/ck_profile_pic.jpg)
 
 Lab PI
 
