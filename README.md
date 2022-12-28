@@ -29,7 +29,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 Lab PI
 
-[publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications) // [website](https://keitelscience.com)
+[publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications) // [website](https://keitelscience.com) // [github](https://github.com/keiCetel) // [OSF](https://osf.io/hktsc/) 
 
 ### Rosyl Somai
 
@@ -56,6 +56,8 @@ BSc student (University of Stirling), Research Assistant on the SCONe project (f
 ...
 
 ## Links
+
+[DVPlab - student support](https://dvplab.wordpress.com/)
 
 [SCONe - **S**cottish-EU **C**ritical **O**scillations **Ne**twork](https://scone.stir.ac.uk/)
 
