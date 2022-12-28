@@ -45,11 +45,11 @@ MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)), project "Fallin
 
 ### Lucy Wight
 
-MSc student, Research Assistant
+MSc student (University of Stirling), Research Assistant
 
 ### Karin Bakardjian
 
-BSc student, Research Assistant on the SCONe project (funded by the [RSE](https://rse.org.uk/))
+BSc student (University of Stirling), Research Assistant on the SCONe project (funded by the [RSE](https://rse.org.uk/))
 
 ### Lab Alumni
 
@@ -57,6 +57,8 @@ BSc student, Research Assistant on the SCONe project (funded by the [RSE](https:
 
 ## Links
 
+[SCONe - *S*cottish-EU *C*ritical *O*scillations *Ne*twork](https://scone.stir.ac.uk/)
+[Anne Keitel's The Auditory Brain Lab](https://keitelscience.com/annes-lab/)
 
 
 ## Contact
