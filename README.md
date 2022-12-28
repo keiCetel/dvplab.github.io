@@ -60,7 +60,6 @@ BSc student, Research Assistant on the SCONe project (funded by the [RSE](https:
 
 
 ## Contact
-
-:email: keitel.chris@gmail.com
+&#128231 keitel.chris@gmail.com
 
 :round_pushpin: Psychology, University of Dundee, DD1 4HN Dundee :scotland:
