@@ -15,15 +15,17 @@ We use the following methods:
 - Electro-/Magnetoencephalography (EEG/MEG)
 - Eye tracking for pupillometry
 - functional near-infrared spectroscopy (fNIRS)
-- Other physiological measures: respiration, pulse rate, 
+- Other physiological measures (respiration, pulse rate)
 
-![display dvplab themes and methods](/images/dvplab_themes.png)
+Studies take place in lab-based and mobile 'real-world' environments.
+
+<img src="/images/dvplab_themes.png" width="300">
 
 ## Members
 
 ### Christian Keitel
 
-<img src="/images/ck_profile_pic.jpg" width="200">
+<img src="/images/ck_profile_pic.jpg" width="100">
 
 Lab PI
 
