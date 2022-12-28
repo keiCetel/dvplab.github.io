@@ -19,13 +19,13 @@ We use the following methods:
 
 Studies take place in lab-based and mobile 'real-world' environments.
 
-<img src="/images/dvplab_themes.png" width="300">
+<img src="/images/dvplab_themes.png" width="500">
 
 ## Members
 
 ### Christian Keitel
 
-<img src="/images/ck_profile_pic.jpg" width="100">
+<img src="/images/ck_profile_pic.jpg" width="150">
 
 Lab PI
 
