@@ -2,7 +2,7 @@
 
 We are one of the labs contributing to Cognitive Neuroscience research at the [Psychology Division](https://www.dundee.ac.uk/psychology) of the University of Dundee, Scotland. Find here an overview of our research, lab members, publications and activities.
 
-[Research](#research)|[Lab Members](#members)|[Links](#links)|[Contact](#contact)
+[Research](#research) | [Lab Members](#members) | [Links](#links) | [Contact](#contact)
 
 ## Research
 
@@ -29,7 +29,8 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 Lab PI
 
-:mortar_board: [publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en)
+<p>&#127891 <a href=https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications</a></p>
+<p>&#127760 <a href=https://keitelscience.com>website</a></p>
 
 ### Rosyl Somai
 
@@ -61,5 +62,4 @@ BSc student, Research Assistant on the SCONe project (funded by the [RSE](https:
 
 ## Contact
 <p>&#128231 <a href=mailto:keitel.chris@gmail.com>keitel.chris@gmail.com</a></p>
-
-:round_pushpin: Psychology, University of Dundee, DD1 4HN Dundee :scotland:
+<p>&#128231 Psychology, University of Dundee, DD1 4HN Dundee</p>
