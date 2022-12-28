@@ -19,6 +19,7 @@ We use the following methods:
 
 Studies take place in lab-based and mobile 'real-world' environments.
 
+
 ![display dvplab themes](/images/dvplab_themes.png)
 
 ## Members
