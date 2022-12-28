@@ -1,4 +1,4 @@
-![Display dvplab logo](https://github.com/keiCetel/dvplab.github.io/blob/master/logo.png)
+![display dvplab logo](logo.png)
 
 ## Welcome
 
