@@ -18,8 +18,8 @@ We use the following methods:
 - Other physiological measures (respiration, pulse rate)
 
 Studies take place in lab-based and mobile 'real-world' environments.
-&nbsp;
-&nbsp;
+<br />
+<br />
 
 ![display dvplab themes](/images/dvplab_themes.png)
 
