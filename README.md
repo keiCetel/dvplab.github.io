@@ -31,7 +31,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 <img src="https://raw.githubusercontent.com/keiCetel/dvplab.github.io/master/images/ck_profile_pic.jpg" width="150">
 
-Lab PI - micro-manager, probably in charge because (oldish) white **he/him**
+**he/him** Lab PI, scatter brain, micro manager
 
 [publications](https://scholar.google.com/citations?user=hTkSbg8AAAAJ&hl=en>publications) // [website](https://keitelscience.com) // [github](https://github.com/keiCetel) // [OSF](https://osf.io/hktsc/) // [Mastodon](https://mastodon.scot/@keicetel)
 
