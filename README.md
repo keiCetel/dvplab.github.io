@@ -41,7 +41,9 @@ Research Associate (University of Stirling), investigating lapses of attention w
 
 ### Emily Cunningham
 
-PhD student (University of Stirling), funded by [SGSSS](https://www.sgsss.ac.uk/) - project "REALapse" which investigates lapses in attention in laboratory and real-life settings using mobile neurophysiological techniques
+<img src = "https://github.com/keiCetel/dvplab.github.io/blob/master/images/ec_profile_pic.jpg" width = "150">
+
+**she/her** PhD student (University of Stirling), funded by [SGSSS](https://www.sgsss.ac.uk/) - project "REALapse" which investigates lapses in attention in laboratory and real-life settings using mobile neurophysiological techniques
 
 ### Martina Kopcanova
 
