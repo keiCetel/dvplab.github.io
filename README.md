@@ -45,9 +45,11 @@ Research Associate (University of Stirling), investigating lapses of attention w
 
 **she/her** PhD student (University of Stirling), funded by [SGSSS](https://www.sgsss.ac.uk/) - project "REALapse" which investigates lapses in attention in laboratory and real-life settings using mobile neurophysiological techniques
 
-### Martina Kopcanova
+### Martina Kopčanová
 
-MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)) - project "Falling out of the Zone"
+<img src = "https://raw.githubusercontent.com/keiCetel/dvplab.github.io/master/images/mk_profile_pic.jpg" width = "150">
+
+**she/her** MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)) - project "Falling out of the Zone" which aims to identify neurophysiological predictors of fatigue and inattention using M/EEG and pupillometry
 
 ### Lucy Wight
 
