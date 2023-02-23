@@ -41,7 +41,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 Research Associate (University of Stirling), investigating lapses of attention with fNIRS (funded by [CENSIS](https://censis.org.uk/))
 
-//[publications](https://scholar.google.com/citations?hl=nl&user=GJLoxcEAAAAJ) // [website](https://rosylsomai.com) // [github] (https://github.com/RosylSomai) //
+//[publications](https://scholar.google.com/citations?hl=nl&user=GJLoxcEAAAAJ) // [website](https://rosylsomai.com) // [github](https://github.com/RosylSomai) //
 
 ### Emily Cunningham
 
