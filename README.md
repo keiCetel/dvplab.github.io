@@ -54,6 +54,7 @@ Research Associate (University of Stirling), investigating lapses of attention w
 <img src = "https://raw.githubusercontent.com/keiCetel/dvplab.github.io/master/images/mk_profile_pic.jpg" width = "150">
 
 **she/her** MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)) - project "Falling out of the Zone" which aims to identify neurophysiological predictors of fatigue and inattention using M/EEG and pupillometry
+[google scholar](https://scholar.google.com/citations?hl=en&user=LqxZj98AAAAJ) 
 
 ### Lucy Wight
 
