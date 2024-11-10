@@ -51,6 +51,10 @@ Studies take place in lab-based and mobile 'real-world' environments.
 **she/her** MSc + PhD student (funded by [SGSSS](https://www.sgsss.ac.uk/)) - project "Falling out of the Zone" which aims to identify neurophysiological predictors of fatigue and inattention using M/EEG and pupillometry
 [google scholar](https://scholar.google.com/citations?hl=en&user=LqxZj98AAAAJ) 
 
+### Mihaela Lyutskanova
+
+PhD student (funded by [TENOVUS](https://tenovus-scotland.org.uk/)) - project "Facilitating Early Diagnosis of Neurodegenerative Diseases Through Normative Modelling of Healthy Brain States"
+
 ## Lab Alumni
 
 ### Rosyl Somai
