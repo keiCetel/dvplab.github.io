@@ -53,7 +53,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 ### Mihaela Lyutskanova
 
-PhD student (funded by [TENOVUS](https://tenovus-scotland.org.uk/)) - project "Facilitating Early Diagnosis of Neurodegenerative Diseases Through Normative Modelling of Healthy Brain States"
+**she/her** PhD student (funded by [TENOVUS](https://tenovus-scotland.org.uk/)) - project "Facilitating Early Diagnosis of Neurodegenerative Diseases Through Normative Modelling of Healthy Brain States", which focuses on early detection and diagnostic biomarkers of Parkinson's Disease.
 
 ## Lab Alumni
 
