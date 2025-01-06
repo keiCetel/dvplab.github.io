@@ -75,6 +75,12 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 2021-2023 BSc student (University of Stirling), Research Assistant on the SCONe project (funded by the [RSE](https://rse.org.uk/))
 
+### Comfort Ihueze
+
+<img src="https://raw.githubusercontent.com//keiCetel/dvplab.github.io/master/images/CI_profile_pic.jpg" width = "150">
+
+2024 MSc student (University of Dundee), Research Assistant on the EEG ManyLabs Mathewson replication project, Consulting on adapting local EEG research to afrocentric hairstyles and conditions 
+
 ---
 
 ## Links
