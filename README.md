@@ -57,6 +57,11 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 **she/her** PhD student (funded by [TENOVUS](https://tenovus-scotland.org.uk/)) - project "Facilitating Early Diagnosis of Neurodegenerative Diseases Through Normative Modelling of Healthy Brain States", which focuses on early detection and diagnostic biomarkers of Parkinson's Disease.
 
+### Sanna Fraser
+<img src = "" width = "150">
+
+PhD student
+
 ## Lab Alumni
 
 ### Rosyl Somai
@@ -87,7 +92,9 @@ Studies take place in lab-based and mobile 'real-world' environments.
 
 [DVPlab - student support](https://dvplab.wordpress.com/)
 
-[SCONe - **S**cottish-EU **C**ritical **O**scillations **Ne**twork](https://scone.stir.ac.uk/)
+[SCONe - **S**cottish-EU **C**ritical **O**scillations **Ne**twork](https://sites.dundee.ac.uk/scone)
+
+[OMEGA Scotland](https://sites.dundee.ac.uk/omegas)
 
 [Anne Keitel's The Auditory Brain Lab](https://keitelscience.com/annes-lab/)
 
