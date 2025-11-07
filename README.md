@@ -58,7 +58,7 @@ Studies take place in lab-based and mobile 'real-world' environments.
 **she/her** PhD student (funded by [TENOVUS](https://tenovus-scotland.org.uk/)) - project "Facilitating Early Diagnosis of Neurodegenerative Diseases Through Normative Modelling of Healthy Brain States", which focuses on early detection and diagnostic biomarkers of Parkinson's Disease.
 
 ### Sanna Fraser
-<img src = "https://raw.githubusercontent.com/keiCetel/dvplab.github.io/master/images/SF_profile_pic.jpg" width = "150">
+<img src = "https://github.com/keiCetel/dvplab.github.io/tree/sannajayne-patch-1/images/SF_profile_pic.jpg" width = "150">
 
 PhD student focusing on building normative models of resting-state EEG data to facilitate the early diagnosis of neurodegenerative disorders, including Alzheimer's disease
 
